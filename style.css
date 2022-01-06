@@ -98,21 +98,19 @@ p{text-align: justify;
     margin-left: 50px;
 } 
 
-
-/* .flex-div{
+.last-section{
     display: flex;
-  
+    width: 80%;
+    margin: auto
 }
-.develope1{
-    
-    background-image: url(shapes/shape-1.png);
-    height: 100px;
-    width: 100px;
+.global1{
+    width: 400px;
 }
-.develope1 img{
-    width: 50%;
+.global2{
+    width: 200px;
+    margin-left: 160px;
 }
-.develope2{
-    width: 50%;
-    margin-left: 50px;
-} */
+.global2 img{
+    width: 100%;
+}
+    .
