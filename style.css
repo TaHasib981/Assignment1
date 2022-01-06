@@ -75,7 +75,7 @@ p{text-align: justify;
 
 .container{
     margin-top: 35px;
-    margin-bottom: 35px;
+    margin-bottom: 60px;
 }
 
 .flex-div{
@@ -113,4 +113,35 @@ p{text-align: justify;
 .global2 img{
     width: 100%;
 }
-    .
+.aboutMe{
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+.coronaSection{
+    display: flex;
+}
+.coronaImg{
+    width: 50%;
+}
+.coronaDiv{
+    width: 50%;
+    padding-top: 50px;
+}
+.coronaImg img{
+    width: 300px;
+    margin-left: 50px;
+}
+.allabout{margin-top: 70px;
+    margin-bottom: 35px;
+}
+    
+footer{background-color: rgb(26, 23, 23);
+ padding: 20px; 
+ text-align: center;
+ color: white;
+}
+footer p{
+    text-align: center;
+}
