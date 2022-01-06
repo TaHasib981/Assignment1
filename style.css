@@ -1,0 +1,37 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.parent-1{
+    
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
+.child-1{margin-top: 30px;
+    width: 140%;
+}
+.focuse-div{
+    padding-left: 8px;
+    border-left: 2px solid rgb(123, 26, 235);
+    border-top-left-radius:7px;
+
+}
+.focuse-div span{
+    color: #850df5;
+}
+.child-1 p{text-align: justify;
+    font-size: 11px;
+}
+.fcus-batton{border: none;
+    background-color: rgb(129, 15, 235);
+    border-radius: 10px; 
+    color: white;
+}
+.fcus-batton:hover{background-color: tomato;}
+
+
+.child-2 img{
+    margin-left: 90px;
+    width: 75%;
+}
