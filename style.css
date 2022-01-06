@@ -9,7 +9,7 @@ body{
     margin: auto;
 }
 .child-1{margin-top: 30px;
-    width: 140%;
+    width: 190%;
 }
 .focuse-div{
     padding-left: 8px;
@@ -21,7 +21,7 @@ span{
     color: #850df5;
 }
 p{text-align: justify;
-    font-size: 8px;
+    font-size: 10px;
 }
 
 .fcus-batton{border: none;
@@ -115,7 +115,7 @@ p{text-align: justify;
 }
 .aboutMe{
     text-align: center;
-    text-decoration: underline;
+    color: rgb(110, 17, 231);
 }
 
 
