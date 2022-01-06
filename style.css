@@ -17,7 +17,7 @@ body{
     border-top-left-radius:7px;
 
 }
-.focuse-div span{
+span{
     color: #850df5;
 }
 .child-1 p{text-align: justify;
@@ -34,4 +34,17 @@ body{
 .child-2 img{
     margin-left: 90px;
     width: 75%;
+}
+
+.all-section2{
+    background-color: grey;
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+}
+.my-mission{border: 1px solid red;
+    text-align: center;
+}
+.mission{
+    width: 250px;
 }
