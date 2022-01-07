@@ -3,145 +3,23 @@ body{
     padding: 0px;
 }
 .parent-1{
-    
     display: flex;
     width: 80%;
     margin: auto;
 }
-.child-1{margin-top: 30px;
-    width: 190%;
+.child-1{
+    margin-top: 80px;
+    width:70%;
 }
-.focuse-div{
-    padding-left: 8px;
-    border-left: 2px solid rgb(123, 26, 235);
-    border-top-left-radius:7px;
-
-}
-span{
-    color: #850df5;
-}
-p{text-align: justify;
-    font-size: 10px;
-}
-
-.fcus-batton{border: none;
-    background-color: rgb(129, 15, 235);
-    border-radius: 10px; 
-    color: white;
-}
-.fcus-batton:hover{background-color: tomato;}
-
-
-.child-2 img{
-    margin-left: 90px;
-    width: 75%;
-}
-
-.all-section2{
-  
-    width: 80%;
-    margin: auto;
-    
-}
-.my-mission{
-    text-align: center;
-}
-.first-mission{width: 190px;height: 150px;
-    background-color: rgb(210, 211, 236);
-    border-radius: 13px;
-    padding: 5px;
-}
-.second-mission{width: 190px;height: 150px;
-    background-color: rgb(218, 242, 243);
-    border-radius: 13px;
-    padding: 5px;
-}
-
-.third-mission{width: 190px;height: 150px;
-    background-color: rgb(235, 218, 243);
-    border-radius: 13px;
-    padding: 5px;
-}
-.img-mission{
-   height: 40px;
-}
-
-.img-mission img{width: 30%;}
-
-.all-section3{
-    display: flex;
-    justify-content:space-between;
-}
-
-.container{
-    margin-top: 35px;
-    margin-bottom: 60px;
-}
-
-.flex-div{
-    display: flex;
-    margin-left: 30px;
-}
-.develope1 img{
-    
-    width: 200px;
-    height: 200px;
-}
-
-.develope img{
-     margin-top: 18px;
-     height: 150px;
-     width: 50px;
-}
-.develope2{
+.child-2{
     width: 50%;
-    margin-left: 50px;
-} 
-
-.last-section{
-    display: flex;
-    width: 80%;
-    margin: auto
 }
-.global1{
-    width: 400px;
-}
-.global2{
-    width: 200px;
-    margin-left: 160px;
-}
-.global2 img{
+.child-2 img{
+    margin-left: 80px;
     width: 100%;
 }
-.aboutMe{
-    text-align: center;
-    color: rgb(110, 17, 231);
-}
-
-
-.coronaSection{
-    display: flex;
-}
-.coronaImg{
-    width: 50%;
-}
-.coronaDiv{
-    width: 50%;
-    padding-top: 50px;
-}
-.coronaImg img{
-    width: 300px;
-    margin-left: 50px;
-}
-.allabout{margin-top: 70px;
-    margin-bottom: 35px;
-}
-    
-footer{background-color: rgb(26, 23, 23);
- padding: 20px; 
- text-align: center;
- color: white;
-}
-footer p{
-    text-align: center;
+.focuse-div{
+    padding-left: 7px;
+    border-left: 5px solid rgb(90, 6, 175);
+    border-top-left-radius:16px;
 }
